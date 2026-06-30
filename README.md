@@ -1,3 +1,16 @@
+<img width="1343" height="309" alt="Structure" src="https://github.com/user-attachments/assets/480ffde6-e0e4-4485-aa1b-3b8d22942ddb" />
+<img width="1906" height="960" alt="ec2" src="https://github.com/user-attachments/assets/1db858d0-0e64-4167-9db9-95a8ee8d5e95" />
+<img width="1911" height="966" alt="ec2_role" src="https://github.com/user-attachments/assets/1bf53539-3abf-4d50-88a4-2bd9902752dc" />
+<img width="1902" height="948" alt="lambda" src="https://github.com/user-attachments/assets/dafe95a0-3413-4175-b4ac-3578a525b59d" />
+<img width="1918" height="986" alt="lambda_code" src="https://github.com/user-attachments/assets/8a357bb9-ac14-4404-83e7-d1de3f4ace5c" />
+<img width="1915" height="917" alt="lambda_test" src="https://github.com/user-attachments/assets/03db0e7e-67d4-4d39-87e9-86e6ff5475b0" />
+<img width="1875" height="916" alt="EC2_stop" src="https://github.com/user-attachments/assets/806c2055-ccbf-4e6a-b245-2b6487a7ec81" />
+<img width="1912" height="927" alt="Alarm_setting" src="https://github.com/user-attachments/assets/6475d0ef-357b-4a19-98ad-c820671765c5" />
+<img width="1654" height="649" alt="Alarm_action" src="https://github.com/user-attachments/assets/a0d3f1aa-b561-4b57-b7d7-a4d27e629ce9" />
+<img width="1901" height="900" alt="Alarm_trigger" src="https://github.com/user-attachments/assets/25890101-0599-4c37-9a05-f9814df38242" />
+
+
+
 # 💰 Automated AWS Cost Optimizer
 
 Automatically stops idle Amazon EC2 instances using AWS Lambda and Amazon CloudWatch Alarm to reduce unnecessary AWS costs.
